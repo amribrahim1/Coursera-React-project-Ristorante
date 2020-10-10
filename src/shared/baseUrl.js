@@ -1,0 +1,1 @@
+export const baseUrl = 'https://front-end-react-cousera-server.herokuapp.com/';
