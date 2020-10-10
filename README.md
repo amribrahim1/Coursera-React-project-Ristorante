@@ -10,3 +10,5 @@ https://www.coursera.org/learn/front-end-react/
 
 My certificate:
 https://www.coursera.org/account/accomplishments/records/J2E65FQR4XAY
+
+It's connected with test back-end created with JSON-server.
